@@ -1,1 +1,1 @@
-create texts.txt file
+cb hero
